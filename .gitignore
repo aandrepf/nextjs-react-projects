@@ -1,0 +1,7 @@
+## FOLDERS
+node_modules/
+.next/
+
+## FILES
+.DS_Store
+*-lock.json
