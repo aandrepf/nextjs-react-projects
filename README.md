@@ -6,7 +6,7 @@ A bunch of react with NextJS projects from the Udemy course
 
 ## Concepts
 
-- [Concepts](https://github.com/aandrepf/nextjs-react-projects/)
+- [Concepts](https://github.com/aandrepf/nextjs-react-projects/blob/main/UNDERSTANDING.md)
 
 ## Resources
 
